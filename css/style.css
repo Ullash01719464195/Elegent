@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Dhurjati');
+*{margin: 0;
+padding: 0;
+}
+body{
+	font-family: 'Dhurjati', sans-serif;
+	color:#0A122A;
+}
+header{
+	margin: 20px 0;
+}
+.container{
+	width: 1000px;
+	margin: 0 auto;
+}
+.logo{
+	float: left;
+}
+.nav{
+	float:right;
+}
+.nav ul{
+	text-align: right;
+}
+.nav ul li{
+	display: inline-block;
+	list-style: none;
+
+}
+.nav ul li a{
+	display: block;
+	padding: 10px 20px;
+	text-decoration: none;
+	color:#0A122A;
+	font-weight: bold;
+	font-weight: 25px;
+}
+.banner{
+	height: 500px;
+}
+.container{
+}
+.banner_section{
+	    float: left;
+}
+.banner_section img {
+	margin-top: 125px;
+}
+.banner_section p{
+	margin-left: 40px;
+margin-top: 190px;
+font-size: 25px;
+padding-bottom: 50px;
+}
+.banner_section a{
+	margin-left: 40px;
+margin-top: 190px;
+text-decoration: none;
+padding: 10px 20px;
+color: #fff;
+background: lightblue;
+border-radius: 30px;
+}
+.slider{}
+.slide_section{}
+.heading{
+	text-align: center;
+}
+.heading h2{
+	padding: 15px 0;
+font-size: 30px;
+}
+.heading p{}
+.slider_division{
+	margin-top: 130px;
+	float: left;
+	width: 30%;
+}
+.slider_division img{
+	height: 1400px;
+width: 300px;
+margin-top: 45px;
+}
+.slide_division{
+	margin: 40px 49px;
+}
+.slide_division h3{
+	padding-bottom: 30px;
+	text-align: right;
+}
+.slide_division p{
+	text-align: right;
+}
+.service_heading{
+	text-align: center;
+}
+.service_heading h2{
+	}
+.service{
+	margin-top: 1690px;
+}
+.service_section{
+	margin-top: 90px;
+float: left;
+width: 30%;
+margin-left: 33px;
+}
+.service_section img{
+	width: 300px;
+}
+.service_section h2{}
+.service_section p{
+	text-align: justify;
+margin: 18px 0px;
+}
